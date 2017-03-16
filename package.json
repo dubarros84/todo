@@ -1,0 +1,23 @@
+{
+  "name": "todo_list",
+  "version": "1.0.0",
+  "description": "To Do List App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduardo Barros",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^3.17.1",
+    "eslint-config-standard": "^7.0.1",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^2.1.1",
+    "http-server": "^0.9.0"
+  },
+  "dependencies": {
+    "eslint": "^3.17.1",
+    "i": "^0.3.5",
+    "lodash": "^4.17.4"
+  }
+}
